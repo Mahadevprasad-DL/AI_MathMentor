@@ -32,12 +32,6 @@ Many students between 1st and 10th standard face difficulties in learning and pr
 
 ---
 
-## Demo
-
-👉 [Live Demo – AI Math Mentor](https://aimathmaster.vercel.app/)
-
----
-
 ## Tech Stack
 
 | Layer | Technologies |
